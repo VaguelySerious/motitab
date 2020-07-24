@@ -1,2 +1,5 @@
-# motivation-new-tab-page
+# Motitab
 Custom new tab page for Firefox/Chrome with motivational elements
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
